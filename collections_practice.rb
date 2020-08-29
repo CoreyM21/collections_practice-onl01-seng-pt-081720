@@ -31,3 +31,4 @@ def find_a (array)
     word.chr == "a"
   end
 end
+
